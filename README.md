@@ -107,11 +107,8 @@ A perennial hobbyist.
 <br />
 <br />
 
----
-
 [website]: https://denverdias.com/
 [facebook]: https://facebook.com/DiasDenver
 [instagram]: https://instagram.com/DenverDias
 [twitter]: https://twitter.com/DNVRxyz
 [email]: mailto:hello@denverdias.com
-[phone]: tel:+1-(226)-773-6724
