@@ -9,6 +9,7 @@ A perennial hobbyist.
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Sublime Text" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />][website]
 [<img align="left" alt="Atom" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />][website]
+[<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/xcode/xcode.png" />][website]
 <br />
 <br />
 
@@ -40,10 +41,10 @@ A perennial hobbyist.
 ### Frontend Tech
 
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][website]
-[<img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
-[<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />][website]
-[<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />][website]
-[<img align="left" alt="Progressive Web Apps" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/pwa/pwa.png" />][website]
+[<img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />][website]
+[<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />][website]
+[<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />][website]
+[<img align="left" alt="Progressive Web Apps" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png" />][website]
 <br />
 <br />
 
@@ -76,16 +77,17 @@ A perennial hobbyist.
 
 ### Content Management Systems
 
-[<img align="left" alt="WordPress" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/wordpress/wordpress.png" />][website]
-[<img align="left" alt="Laravel" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/laravel/laravel.png" />][website]
+[<img align="left" alt="WordPress" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />][website]
+[<img align="left" alt="Laravel" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />][website]
 <br />
 <br />
 
-### Database Management Systems
+### Data Store Systems
 
 [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />][website]
+[<img align="left" alt="SQLite" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />][website]
 [<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Redis" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" />][website]
 <br />
