@@ -51,10 +51,10 @@ A perennial hobbyist.
 ### Backend Tech
 
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Deno" width="32px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
-[<img align="left" alt="ASP.NET" width="32px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/aspnet/aspnet.png" />][website]
-[<img align="left" alt="NGINX" width="32px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/nginx/nginx.png" />][website]
-[<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />][website]
+[<img align="left" alt="Deno" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />][website]
+[<img align="left" alt="ASP.NET" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" />][website]
+[<img align="left" alt="NGINX" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" />][website]
+[<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />][website]
 <br />
 <br />
 
