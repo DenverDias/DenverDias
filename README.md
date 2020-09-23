@@ -2,7 +2,7 @@
 
 A perennial hobbyist.
 
-## Technologies I work with
+## Technologies which I use
 
 ### IDE
 
