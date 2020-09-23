@@ -28,7 +28,7 @@ A perennial hobbyist.
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="EcmaScript 6" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/es6/es6.png" />][website]
 [<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="NPM" width="32px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/npm/npm.png" />][website]
+[<img align="left" alt="NPM" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" />][website]
 [<img align="left" alt="WebAssembly" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/web-assembly/web-assembly.png" />][website]
 [<img align="left" alt="AssemblyScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/assemblyscript/assemblyscript.png" />][website]
 [<img align="left" alt="Babel" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png" />][website]
