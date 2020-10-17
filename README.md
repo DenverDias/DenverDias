@@ -1,6 +1,6 @@
 # Denver Dias
 
-A perennial hobbyist.
+A perennial hobbyist. Always working.
 
 ## Technologies which I use
 
